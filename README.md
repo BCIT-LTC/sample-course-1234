@@ -1,2 +1,3 @@
 # sample-course-1234
-Sample Course
+
+This repo is used to demonstrate the output from sample build documents.
